@@ -16,7 +16,7 @@
     "node": "22.7.0"
   },
   "devDependencies": {
-    "@eslint-recommended/eslint-config-typescript": "49.0.1",
+    "@eslint-recommended/eslint-config-typescript": "50.1.0",
     "@tsconfig/node22": "22.0.0",
     "@types/node": "22.7.4",
     "eslint": "8.57.1",
