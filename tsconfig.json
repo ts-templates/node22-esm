@@ -3,6 +3,8 @@
     // https://github.com/tsconfig/bases/blob/main/bases/strictest.json
     "@tsconfig/bases/strictest",
     // https://github.com/tsconfig/bases/blob/main/bases/node22.json
-    "@tsconfig/bases/node22"
+    "@tsconfig/bases/node22",
+    // https://github.com/tsconfig/bases/blob/main/bases/node-ts.json
+    "@tsconfig/bases/node-ts"
   ]
 }

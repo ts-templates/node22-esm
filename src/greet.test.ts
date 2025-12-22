@@ -1,5 +1,5 @@
 import { describe, it, type TestContext } from 'node:test'
-import { greet } from './greet.js'
+import { greet } from './greet.ts'
 
 describe('greet', () => {
   it('returns greeting', (t: TestContext) => {
