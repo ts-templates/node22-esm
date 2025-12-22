@@ -9,7 +9,7 @@
     "test": "glob -c 'node --test --import tsx/esm' 'src/**/*.test.ts'"
   },
   "engines": {
-    "node": "22.19.0"
+    "node": "22.21.1"
   },
   "devDependencies": {
     "@tsconfig/bases": "1.0.16",
